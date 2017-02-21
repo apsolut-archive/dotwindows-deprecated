@@ -3,22 +3,23 @@ dotWindows (MyFiles) for Fast Startup
 
 
 
-Start 2017
--------
+## What's in it?
+
+- [Cmder](#cmder)
+- [Folder Names](#folder-names)
+
+
+#### Details
 
 
 
-
-What's in it?
--------------
-
-[Cmder](http://cmder.net/) conf:
+##### [Cmder](http://cmder.net/) conf:
 
 * two git-bash consoles split top / bottom
-`you should add your own folder "C:\dp\2017"`
+* you should add your own folder ``` C:\dp\2017 ```
 ![Cmder](https://raw.githubusercontent.com/apsolut/dotwindows/master/assets/images/cmder-look-and-feel-2-split-small.png)
 
-Folder Names:
+#### Folder Names:
  - dp/ `default project`
  - dt/ `default tools`
 
