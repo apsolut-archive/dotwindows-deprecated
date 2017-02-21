@@ -22,9 +22,10 @@ dotWindows (MyFiles) for Fast Startup
 #### Folder Names:
  - dp/ `default project`
  - dt/ `default tools`
-
-Tools:
-
+``` 
+/dp/2016/www/
+/dp/2017/www/abc/xyz/
+```
 
 
 About this repo
