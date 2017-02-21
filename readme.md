@@ -5,7 +5,7 @@ dotWindows (MyFiles) for Fast Startup
 
 ## What's in it?
 
-- [Cmder](#cmder-cli)
+- [Cmder](#cmder-conf)
 - [Folder Names](#folder-names)
 
 
@@ -13,7 +13,7 @@ dotWindows (MyFiles) for Fast Startup
 
 
 
-##### [Cmder cli](http://cmder.net/) conf:
+##### [Cmder](http://cmder.net/) conf:
 
 * two git-bash consoles split top / bottom
 * you should add your own folder ``` C:\dp\2017 ```
