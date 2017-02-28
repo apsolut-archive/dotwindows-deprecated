@@ -7,8 +7,8 @@ dotWindows (MyFiles) for Fast Startup
 
 - [Cmder](#cmder-conf)
 - [Folder Names](#folder-names)
-
-
+- [FTP/SSH](#ftp-ssh)
+- [Team Tools](#team-tools)
 #### Details
 
 
@@ -27,7 +27,18 @@ dotWindows (MyFiles) for Fast Startup
 /dp/2016/www/
 /dp/2017/www/abc/xyz/
 ```
+--- 
 
+#### FTP/SSH:
+- [Bitvise](https://www.bitvise.com/) ``` SSH ```
+- [WinSCP](https://winscp.net/eng/index.php)
+``` can enable Master Password, synchronize local->remote and vice versa + scripting```
+- We dont use FileZilla or other clients that cant protect client/user Passwords.
+--- 
+
+#### Team Tools:
+* LastPass ```Team/User Password Manager - all Devices *PRO```
+* KeePass ```can sync from multiple PC/MAC - with plugins```
 
 About this repo
 ----------------
