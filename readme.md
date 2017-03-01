@@ -54,9 +54,13 @@ my fast conf/switch
 
 * must add to PATH
 
-```hipchat```
-``` phpstorm ```    
-    dsfs
+```
+hipchat
+```
+```
+ phpstorm 
+```    
+
 
 
 
