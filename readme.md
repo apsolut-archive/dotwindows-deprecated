@@ -36,7 +36,8 @@ my fast conf/switch
 - [Bitvise](https://www.bitvise.com/) ``` SSH ```
 - [WinSCP](https://winscp.net/eng/index.php)
 ``` can enable Master Password, synchronize local->remote and vice versa + scripting```
-* We dont use FileZilla or other clients that cant protect client/user Passwords.
+ 
+ * we dont use FileZilla or other clients that cant protect client/user Passwords.
 --- 
 
 ### Team Tools:
