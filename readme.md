@@ -37,7 +37,7 @@ my fast conf/switch
 - [WinSCP](https://winscp.net/eng/index.php)
 ``` can enable Master Password, synchronize local->remote and vice versa + scripting```
  
- * we dont use FileZilla or other clients that cant protect client/user Passwords.
+> we dont use FileZilla or other clients that cant protect client/user Passwords.
 --- 
 
 ### Team Tools:
