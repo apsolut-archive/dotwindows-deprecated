@@ -51,9 +51,11 @@ my fast conf/switch
 ```start photoshop```
 ```start outlook```
 ```start explorer```
-* must add to PATH
+* must add to PATH *
 ```phpstorm```
 ```hipchat```
+
+
 
 
 
