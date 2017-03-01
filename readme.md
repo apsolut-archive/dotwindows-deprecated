@@ -54,11 +54,10 @@ my fast conf/switch
 
 * must add to PATH
 
-```phpstorm```
 ```hipchat```
+```phpstorm```    
 
-
-
+-----
 
 
 
