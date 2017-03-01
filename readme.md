@@ -1,6 +1,7 @@
 dotWindows (MyFiles) for Fast Startup
 ===================
-my fast conf/switch
+![windows](https://raw.githubusercontent.com/apsolut/dotwindows/master/assets/images/icons/icon-decom-windows-02.png)
+![windows](https://raw.githubusercontent.com/apsolut/dotwindows/master/assets/images/icons/icon-decom-bash.png)
 
 
 ## What's in it?
