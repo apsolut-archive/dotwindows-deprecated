@@ -56,13 +56,12 @@ my fast conf/switch
 
 ```hipchat```
 ```phpstorm```    
-
------
+* ddsf
+* dsfs
 
 
 
 ### About this repo
-----------------
 
 
 Look at this as dotfiles (but I`m Win user.)
