@@ -1,7 +1,7 @@
 dotWindows (MyFiles) for Fast Startup
 ===================
 ![icon of windows](https://raw.githubusercontent.com/apsolut/dotwindows/master/assets/images/icons/icon-decom-windows-02.png)
-![icon of bash](https://raw.githubusercontent.com/apsolut/dotwindows/master/assets/images/icons/icon-decom-bash.png)[]
+![icon of bash](https://raw.githubusercontent.com/apsolut/dotwindows/master/assets/images/icons/icon-decom-bash.png)
 
 
 ## What's in it?
@@ -43,7 +43,7 @@ dotWindows (MyFiles) for Fast Startup
 
 ### Team Tools:
 * LastPass ```Team/User Password Manager - all Devices *PRO```
-* KeePass ```can sync from multiple PC/MAC - with plugins```
+* KeePass ``` Local tool / can sync from multiple PC/MAC - with plugins```
 
 
 
