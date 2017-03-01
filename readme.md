@@ -1,6 +1,6 @@
 dotWindows (MyFiles) for Fast Startup
 ===================
-
+my fast conf/switch
 
 
 ## What's in it?
@@ -9,9 +9,12 @@ dotWindows (MyFiles) for Fast Startup
 - [Folder Names](#folder-names)
 - [FTP/SSH](#ftp-ssh)
 - [Team Tools](#team-tools)
+- [Open program from cmd](#open-pgoram-from-cmd)
+
+
+
+
 #### Details
-
-
 
 ##### [Cmder](http://cmder.net/) conf:
 
@@ -39,6 +42,18 @@ dotWindows (MyFiles) for Fast Startup
 #### Team Tools:
 * LastPass ```Team/User Password Manager - all Devices *PRO```
 * KeePass ```can sync from multiple PC/MAC - with plugins```
+
+
+#### Open program from cmd:
+```start notepad++```
+```start chrome```
+```start photoshop```
+```start outlook```
+```start explorer```
+* must add to PATH
+```phpstorm```
+```hipchat```
+
 
 About this repo
 ----------------
