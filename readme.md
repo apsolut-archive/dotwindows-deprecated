@@ -7,7 +7,7 @@ my fast conf/switch
 
 - [Cmder](#cmder-conf)
 - [Folder Names](#folder-names)
-- [FTP/SSH](#ftp-ssh)
+- [FTP/SSH](#ftpssh)
 - [Team Tools](#team-tools)
 - [Open program from cmd](#open-pgoram-from-cmd)
 
