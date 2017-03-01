@@ -19,7 +19,7 @@ dotWindows (MyFiles) for Fast Startup
 
 #### [Cmder](http://cmder.net/) conf:
 
-* two git-bash consoles split top / bottom
+* **2** git-bash + **1** powershell split top / bottom
 * you should add your own folder ``` C:\dp\2017 ```
 ![Cmder](https://raw.githubusercontent.com/apsolut/dotwindows/master/assets/images/cmder-look-and-feel-2-split-small.png)
 
@@ -47,7 +47,7 @@ dotWindows (MyFiles) for Fast Startup
 
 
 
-### Open program from cmd:
+### Open program from cmd/powershell:
 ```start notepad++```
 ```start chrome```
 ```start photoshop```
