@@ -1,7 +1,7 @@
 dotWindows (MyFiles) for Fast Startup
 ===================
-![windows](https://raw.githubusercontent.com/apsolut/dotwindows/master/assets/images/icons/icon-decom-windows-02.png)
-![windows](https://raw.githubusercontent.com/apsolut/dotwindows/master/assets/images/icons/icon-decom-bash.png)
+![icon-windows](https://raw.githubusercontent.com/apsolut/dotwindows/master/assets/images/icons/icon-decom-windows-02.png)
+![icon-bash](https://raw.githubusercontent.com/apsolut/dotwindows/master/assets/images/icons/icon-decom-bash.png)
 
 
 ## What's in it?
