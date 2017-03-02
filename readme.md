@@ -59,13 +59,13 @@ dotWindows (MyFiles) for Fast Startup
 
 
 ```
- must add to PATH: hipchat , phpstorm
+must add to PATH: hipchat , phpstorm
 ```
  
 
-
-### Interesting
+## Interesting
 - [WOX](https://winscp.net/eng/index.php) ```launcher with fuzzy search and small footprint..```
+![Cmder](https://raw.githubusercontent.com/apsolut/dotwindows/master/assets/images/wox-launcher-for-windows-01.gif)
 
 
 ### About this repo
