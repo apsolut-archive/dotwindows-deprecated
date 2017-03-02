@@ -35,7 +35,7 @@ dotWindows (MyFiles) for Fast Startup
 ```
 --- 
 
-### FTP/SSH:
+## FTP/SSH:
 - [Bitvise](https://www.bitvise.com/) ``` SSH ```
 - [WinSCP](https://winscp.net/eng/index.php)
 ``` can enable Master Password, synchronize local->remote and vice versa + scripting```
