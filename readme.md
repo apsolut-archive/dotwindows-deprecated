@@ -56,14 +56,16 @@ dotWindows (MyFiles) for Fast Startup
 ```start outlook```
 ```start explorer```
 
-* must add to PATH
+
 
 ```
-hipchat , phpstorm
+ must add to PATH: hipchat , phpstorm
 ```
  
 
 
+### Interesting
+- [WOX](https://winscp.net/eng/index.php) ```launcher with fuzzy search and small footprint..```
 
 
 ### About this repo
