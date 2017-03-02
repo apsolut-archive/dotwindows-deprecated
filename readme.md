@@ -40,7 +40,7 @@ dotWindows (MyFiles) for Fast Startup
 - [WinSCP](https://winscp.net/eng/index.php)
 ``` can enable Master Password, synchronize local->remote and vice versa + scripting```
  
-> we dont use FileZilla or other clients that cant protect client/user Passwords.
+  > we dont use FileZilla or other clients that cant protect client/user Passwords.
 --- 
 
 ### Team Tools:
@@ -73,5 +73,6 @@ dotWindows (MyFiles) for Fast Startup
 
 Look at this as dotfiles (but I`m Win user.)
  - will include list of all tools needed for clean/fast startup (tools that I use)
+ - PHP, VVV, VV, WP-CLI ...
 
 
