@@ -66,7 +66,7 @@ must add to PATH: hipchat , phpstorm
 ## Interesting
 - [WOX](https://winscp.net/eng/index.php) ```launcher with fuzzy search and small footprint..```
 ![Cmder](https://raw.githubusercontent.com/apsolut/dotwindows/master/assets/images/wox-launcher-for-windows-01.gif)
-
+- [hain](http://appetizermonster.github.io/hain/) ```done in JS```
 
 ### About this repo
 
