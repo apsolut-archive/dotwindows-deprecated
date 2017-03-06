@@ -42,12 +42,13 @@ dotWindows (MyFiles) for Fast Startup
 ```
 --- 
 
+> we dont use FileZilla or other clients that cant protect client/user Passwords.
+
 ## FTP/SSH:
 - [Bitvise](https://www.bitvise.com/) ``` SSH ```
 - [WinSCP](https://winscp.net/eng/index.php)
 ``` can enable Master Password, synchronize local->remote and vice versa + scripting```
- 
-  > we dont use FileZilla or other clients that cant protect client/user Passwords.
+   
 --- 
 
 ### Team Tools:
