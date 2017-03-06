@@ -112,9 +112,9 @@ must add to PATH: hipchat , phpstorm
 ### Nvidia and PC things
 - [Areca Backup](http://www.areca-backup.org/) ```increment backup for everyone..```
 - [DDU, TDR manupulator](https://forums.geforce.com/default/topic/550192/geforce-drivers/wagnard-tools-ddu-gmp-tdr-manipulator-new-cpu-core-analyzer-updated-02-05-2017-/)
- - [Latency Monitor](http://www.resplendence.com/latencymon) ``` fix strange things on pc```
- - [WinMTR](http://winmtr.net/) ``` traceroute / server ```
- - [Ping Plotter](https://www.pingplotter.com/) ```Find out if network problems are caused by local networks, the service you're working with, or something in between. ```
+- [Latency Monitor](http://www.resplendence.com/latencymon) ``` fix strange things on pc```
+- [WinMTR](http://winmtr.net/) ``` traceroute / server ```
+- [Ping Plotter](https://www.pingplotter.com/) ```Find out if network problems are caused by local networks, the service you're working with, or something in between. ```
 
 ## Interesting
 - [WOX](https://winscp.net/eng/index.php) ```launcher with fuzzy search and small footprint..```
