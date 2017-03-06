@@ -42,7 +42,7 @@ dotWindows (MyFiles) for Fast Startup
 ```
 --- 
 
-> we dont use FileZilla or other clients that cant protect client/user Passwords.
+> we dont use FileZilla or other clients that cant protect client/user credentials.
 
 ## FTP/SSH:
 - [Bitvise](https://www.bitvise.com/) ``` SSH ```
