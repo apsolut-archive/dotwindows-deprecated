@@ -12,7 +12,8 @@ dotWindows (MyFiles) for Fast Startup
 - [Folder Names](#folder-names)
 - [FTP/SSH](#ftpssh)
 - [Team Tools](#team-tools)
-- [Tools](#tools)
+- [Code](#code)
+- [Other Tools](#tools)
 - [Browsers](#browsers)
 - [Open program from cmd](#open-program-from-cmdpowershell)
 - [Nvidia and PC things](#nvidia-and-pc-things)
@@ -59,17 +60,9 @@ dotWindows (MyFiles) for Fast Startup
 * [Microsoft Teams](https://teams.microsoft.com) ``` They still fixing some bugs, but will be great tool for sure.. ```
 
 
-### Tools:
+### Code:
 * [PhpStorm](https://www.jetbrains.com/phpstorm/specials/phpstorm/phpstorm.html) ```Unlimited IDE - simply amazing - the 'ONE'.```
-- [MeetFranz](http://meetfranz.com/) ```multiple messaging in one app - viber, hipchat, slack, whatsapp, telegram, skype...```
-* [HandBrake](https://handbrake.fr/) ```Video converter with magic inside.```
-* [VLC](http://www.videolan.org/vlc/) ```VLC```
 * [Notepad++](https://notepad-plus-plus.org/) ```You need it / You want it ```
-* [7Zip](http://www.7-zip.org/) ``` if you need to exlude files use PeaZip also.. ```
-* [VNC](https://www.realvnc.com/) ``` vnc viewer and server - VNC```
-* [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) ``` detection engine ```
-* [HWMonitor](http://www.cpuid.com/softwares/hwmonitor-pro.html) ``` sensors / monitor ```
-* [Gyazo](https://gyazo.com/captures) ```Capture video, gif, image```
 * [Node](https://nodejs.org/en/download/) ```npm```
 * [Python](https://www.python.org/downloads/windows/) ```python```
 * [Ruby](https://rubyinstaller.org/) ```ruby```
@@ -77,6 +70,18 @@ dotWindows (MyFiles) for Fast Startup
 * [Vagrant](https://www.vagrantup.com/) ```vagrant```
 * [VVV](https://github.com/Varying-Vagrant-Vagrants/VVV) ```VVV```
 * [VV](https://github.com/bradp/vv) ```VV```
+
+
+### Tools:
+- [MeetFranz](http://meetfranz.com/) ```multiple messaging in one app - viber, hipchat, slack, whatsapp, telegram, skype...```
+* [HandBrake](https://handbrake.fr/) ```Video converter with magic inside.```
+* [VLC](http://www.videolan.org/vlc/) ```VLC```
+* [7Zip](http://www.7-zip.org/) ``` if you need to exlude files use PeaZip also.. ```
+* [VNC](https://www.realvnc.com/) ``` vnc viewer and server - VNC```
+* [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) ``` detection engine ```
+* [HWMonitor](http://www.cpuid.com/softwares/hwmonitor-pro.html) ``` sensors / monitor ```
+* [Gyazo](https://gyazo.com/captures) ```Capture video, gif, image```
+
 
 
 ### Browsers:
