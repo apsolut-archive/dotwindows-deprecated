@@ -12,6 +12,7 @@ dotWindows (MyFiles) for Fast Startup
 - [Folder Names](#folder-names)
 - [FTP/SSH](#ftpssh)
 - [Team Tools](#team-tools)
+- [Tools](#tools)
 - [Open program from cmd](#open-pgoram-from-cmd)
 
 
@@ -46,6 +47,13 @@ dotWindows (MyFiles) for Fast Startup
 ### Team Tools:
 * LastPass ```Team/User Password Manager - all Devices *PRO```
 * KeePass ``` Local tool / can sync from multiple PC/MAC - with plugins```
+* HipChat ```Unlimited everything (nice for trello and bitbucket)```
+* Bitbucket ```Unlimited private repos... ```
+
+### Tools:
+* PhpStorm ```Unlimited IDE - simply amazing - the 'ONE'.```
+* HandBrake ```Video converter with magic inside.```
+* Notepad++ ```You need it / You want it ```
 
 
 
