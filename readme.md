@@ -29,6 +29,7 @@ dotWindows (MyFiles) for Fast Startup
 * [Cmder config download](https://raw.githubusercontent.com/apsolut/dotwindows/master/cmder/cmder-git-bash-split-screen.xml)
 * [ConEmu download](https://conemu.github.io/)
 * [Git bash download](https://git-scm.com/downloads)
+* [Ubuntu Bash on Windows](https://github.com/apsolut/bash-on-windows)
 
 #### Folder Names:
  - dp/ `default projects`
