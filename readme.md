@@ -13,7 +13,7 @@ dotWindows (MyFiles) for Fast Startup
 - [FTP/SSH](#ftpssh)
 - [Team Tools](#team-tools)
 - [Tools](#tools)
-- [Open program from cmd](#open-pgoram-from-cmd)
+- [Open program from cmd](#open-program-from-cmdpowershell)
 
 
 
