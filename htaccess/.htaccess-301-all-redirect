@@ -1,0 +1,7 @@
+#Redirect 301 
+
+# BEGIN WordPress
+#Options +FollowSymLinks
+#RewriteEngine on
+#RewriteRule (.*) http://NAME.TLD/$1 [R=301,L]
+# END WordPress

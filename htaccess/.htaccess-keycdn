@@ -1,0 +1,63 @@
+# BEGIN Cache Enabler
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+
+# set blog sub path
+SetEnvIf Request_URI "^(.*)$" SUB_PATH=/wp-content/cache/cache-enabler/
+
+# set Cache Enabler path
+SetEnvIf Request_URI "^(.*)$" CE_PATH=$1
+SetEnvIf Request_URI "^(/)index.php$" CE_PATH=$1
+
+<IfModule mod_mime.c>
+# webp HTML file
+RewriteCond %{ENV:CE_PATH} /$
+RewriteCond %{ENV:CE_PATH} !^/wp-admin/.*
+RewriteCond %{REQUEST_METHOD} !=POST
+RewriteCond %{QUERY_STRING} =""
+RewriteCond %{HTTP_COOKIE} !(wp-postpass|wordpress_logged_in|comment_author)_
+RewriteCond %{HTTP:Accept-Encoding} gzip
+RewriteCond %{HTTP:Accept} image/webp
+RewriteCond %{DOCUMENT_ROOT}%{ENV:SUB_PATH}%{HTTP_HOST}%{ENV:CE_PATH}index-webp.html.gz -f
+RewriteRule ^(.*) %{ENV:SUB_PATH}%{HTTP_HOST}%{ENV:CE_PATH}index-webp.html.gz [L]
+
+# gzip HTML file
+RewriteCond %{ENV:CE_PATH} /$
+RewriteCond %{ENV:CE_PATH} !^/wp-admin/.*
+RewriteCond %{REQUEST_METHOD} !=POST
+RewriteCond %{QUERY_STRING} =""
+RewriteCond %{HTTP_COOKIE} !(wp-postpass|wordpress_logged_in|comment_author)_
+RewriteCond %{HTTP:Accept-Encoding} gzip
+RewriteCond %{DOCUMENT_ROOT}%{ENV:SUB_PATH}%{HTTP_HOST}%{ENV:CE_PATH}index.html.gz -f
+RewriteRule ^(.*) %{ENV:SUB_PATH}%{HTTP_HOST}%{ENV:CE_PATH}index.html.gz [L]
+
+AddType text/html .gz
+AddEncoding gzip .gz
+</IfModule>
+
+# webp HTML file
+RewriteCond %{ENV:CE_PATH} /$
+RewriteCond %{ENV:CE_PATH} !^/wp-admin/.*
+RewriteCond %{REQUEST_METHOD} !=POST
+RewriteCond %{QUERY_STRING} =""
+RewriteCond %{HTTP_COOKIE} !(wp-postpass|wordpress_logged_in|comment_author)_
+RewriteCond %{HTTP:Accept} image/webp
+RewriteCond %{DOCUMENT_ROOT}%{ENV:SUB_PATH}%{HTTP_HOST}%{ENV:CE_PATH}index-webp.html -f
+RewriteRule ^(.*) %{ENV:SUB_PATH}%{HTTP_HOST}%{ENV:CE_PATH}index-webp.html [L]
+
+# default HTML file
+RewriteCond %{ENV:CE_PATH} /$
+RewriteCond %{ENV:CE_PATH} !^/wp-admin/.*
+RewriteCond %{REQUEST_METHOD} !=POST
+RewriteCond %{QUERY_STRING} =""
+RewriteCond %{HTTP_COOKIE} !(wp-postpass|wordpress_logged_in|comment_author)_
+RewriteCond %{DOCUMENT_ROOT}%{ENV:SUB_PATH}%{HTTP_HOST}%{ENV:CE_PATH}index.html -f
+RewriteRule ^(.*) %{ENV:SUB_PATH}%{HTTP_HOST}%{ENV:CE_PATH}index.html [L]
+
+# wp override
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [END]
+</IfModule>
+# END Cache Enabler

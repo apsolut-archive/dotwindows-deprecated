@@ -1,0 +1,18 @@
+# BEGIN keep alive
+
+<ifModule mod_env.c>
+SetEnv KeepAlive On
+SetEnv KeepAliveTimeout 100
+SetEnv MaxKeepAliveRequests 500
+</ifModule>
+
+<ifModule mod_headers.c> 
+Header unset Connection
+Header set Connection keep-alive
+
+Header unset Keep-Alive
+Header set Keep-Alive timeout=100,max=500
+
+</ifModule>
+
+# END keep alive
